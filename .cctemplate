@@ -1,0 +1,12 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "templates": [
+        {
+            "path": "hello-world",
+            "name": "FastAPI Hello World App",
+            "description": "A simple Python FastAPI sample"
+        }
+    ]
+}
